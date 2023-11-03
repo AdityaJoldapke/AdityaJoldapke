@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaJoldapke
+- Hi, I’m @AdityaJoldapke
 
 <!---
 AdityaJoldapke/AdityaJoldapke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
